@@ -108,7 +108,7 @@ Figure 2. Confusion matrix demonstrating strong positive and negative sentiment 
 
 ### LSTM Training Performance
 
-![LSTM Training](images/lstm_training_validation.png)
+![LSTM Training](images/lstm_training_curves.png)
 
 Figure 3. Training and validation accuracy/loss curves showing stable learning performance with minimal overfitting.
 
